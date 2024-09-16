@@ -1,0 +1,93 @@
+[
+    {
+      "imagen": "img/The-Persistence-of-Memory.jpg",
+      "nombre": "The Persistence of Memory",
+      "fecha": "1931",
+      "autor": "Salvador Dalí"
+    },
+    {
+      "imagen": "img/guernica.jpg",
+      "nombre": "Guernica",
+      "fecha": "1937",
+      "autor": "Pablo Picasso"
+    },
+    {
+      "imagen": "img/compositionviii.jpg",
+      "nombre": "Composition VIII",
+      "fecha": "1923",
+      "autor": "Wassily Kandinsky"
+    },
+    {
+      "imagen": "img/Campbell's Soup Cans.jpg",
+      "nombre": "Campbell's Soup Cans",
+      "fecha": "1962",
+      "autor": "Andy Warhol"
+    },
+    {
+      "imagen": "img/The Lovers.jpg",
+      "nombre": "The Lovers",
+      "fecha": "1928",
+      "autor": "René Magritte"
+    },
+    {
+      "imagen": "img/-The-Scream.webp",
+      "nombre": "The Scream",
+      "fecha": "1893",
+      "autor": "Edvard Munch"
+    },
+    {
+      "imagen": "img/Broadway Boogie Woogi.webp",
+      "nombre": "Broadway Boogie Woogie",
+      "fecha": "1943",
+      "autor": "Piet Mondrian"
+    },
+    {
+      "imagen": "img/Les Demoiselles d'Avignon.png",
+      "nombre": "Les Demoiselles d'Avignon",
+      "fecha": "1907",
+      "autor": "Pablo Picasso"
+    },
+    {
+      "imagen": "img/Number 1, 1950 (Lavender Mist).jpg",
+      "nombre": "Number 1, 1950 (Lavender Mist)",
+      "fecha": "1950",
+      "autor": "Jackson Pollock"
+    },
+    {
+      "imagen": "img/Woman I.jpg",
+      "nombre": "Woman I",
+      "fecha": "1952",
+      "autor": "Willem de Kooning"
+    },
+    {
+      "imagen": "img/The False Mirror.jpg",
+      "nombre": "The False Mirror",
+      "fecha": "1928",
+      "autor": "René Magritte"
+    },
+    {
+      "imagen": "img/No. 5, 1948.jpg",
+      "nombre": "No. 5, 1948",
+      "fecha": "1948",
+      "autor": "Jackson Pollock"
+    },
+    {
+      "imagen": "img/The Two Fridas.jpg",
+      "nombre": "The Two Fridas",
+      "fecha": "1939",
+      "autor": "Frida Kahlo"
+    },
+    {
+      "imagen": "img/Self-Portrait with Cropped Hair.jpg",
+      "nombre": "Self-Portrait with",
+      "fecha": "1940",
+      "autor": "Frida Kahlo"
+    },
+    {
+      "imagen": "img/Lobster Telephone.jpg",
+      "nombre": "Lobster Telephone",
+      "fecha": "1936",
+      "autor": "Salvador Dalí"
+    }
+  ]
+  
